@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ahmed abdelhady</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate full stack developer from Egypt</h3>
 
 <p align="left"> <a href="https://twitter.com/abdelhadyjr" target="blank"><img src="https://img.shields.io/twitter/follow/abdelhadyjr?logo=twitter&style=for-the-badge" alt="abdelhadyjr" /></a> </p>
 
